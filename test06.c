@@ -1,1 +1,1 @@
-test06.c
+hsoh-test06.c
